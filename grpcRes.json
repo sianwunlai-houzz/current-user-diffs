@@ -1,0 +1,114 @@
+{
+  "data": {
+    "currentUser": {
+      "status": null,
+      "user": null,
+      "loggedIn": true,
+      "token": {
+        "userId": 0,
+        "visitorId": "3f701293-570f-4804-844c-b7dfde489f75",
+        "userName": ""
+      },
+      "headers": [],
+      "preferences": {},
+      "sessionPreferences": {},
+      "visitorProperties": {},
+      "context": {
+        "session": {
+          "impersonatorPermissions": [],
+          "configOverrides": {},
+          "abTestOverrides": {},
+          "entitlement": {},
+          "visitorId": "3f701293-570f-4804-844c-b7dfde489f75",
+          "userId": 0,
+          "siteId": 101,
+          "locale": "",
+          "clientIp": "54.187.100.128, 54.187.100.128, 167.82.142.43,127.0.0.1,172.19.1.94",
+          "geoData": "",
+          "webClientInfo": null,
+          "apiClientInfo": null,
+          "abTestSeed": {
+            "userIdHash": "0",
+            "ipHash": "918250624",
+            "visitorIdHash": "259841",
+            "idfaHash": "0",
+            "urlHash": "657433",
+            "objectIdHash": "0",
+            "objectId": "0"
+          },
+          "apiVersion": 0,
+          "apiToken": "",
+          "apiAppId": "",
+          "apiIdfa": "",
+          "apiIdfv": "",
+          "sessionWriteMode": 0,
+          "isNewVisitor": false,
+          "impersonatorUserId": 0,
+          "isSecure": true,
+          "geoInfo": null,
+          "dbMasterExpireTime": 0,
+          "cobrandId": "",
+          "sensitiveActionFlags": 0,
+          "visitorConsentsToken": "",
+          "featureFlags": 0,
+          "domainId": 180001,
+          "houzzProTeamId": 0,
+          "isHouzzProTeamManager": false,
+          "referer": "",
+          "creationTs": 0,
+          "cookieVersion": 0,
+          "isHouzzProSubs": false,
+          "houzzProTeammateId": 0,
+          "ivyMasterDbExpireTime": 0,
+          "houzzProTeamManagerUserId": 0,
+          "sessionId": ""
+        },
+        "request": null
+      },
+      "userProperties": {},
+      "observedVisitorProperties": {},
+      "permissions": [],
+      "commPreferenceSiteId": 0,
+      "visitorConsentsToken": "",
+      "missingConsents": []
+    },
+    "geoInfo": {
+      "country": "US",
+      "region": "OR",
+      "dma": "810",
+      "postalCode": "97818",
+      "city": "Boardman",
+      "addr": "54.187.100.128",
+      "timeZone": "America/Los_Angeles"
+    }
+  },
+  "_gtrace": {
+    "queryPath_batches": {},
+    "batch_resolver": {},
+    "resolver_services": {},
+    "overall": {
+      "startTime": 1718675164013,
+      "endTime": 1718675164017,
+      "queryExecution": 4,
+      "preQueryExecution": 98,
+      "overhead": {
+        "system": null,
+        "details": {
+          "maxAccumulatedGap": 0,
+          "afterLastCall": 1718675164017,
+          "overheadCost": 0
+        },
+        "user": null,
+        "systemPercentage": null,
+        "userPercentage": null
+      }
+    },
+    "operationName": "authenticate",
+    "zipKin": null
+  },
+  "extensions": {
+    "status": {
+      "errorCode": 0
+    }
+  }
+}
